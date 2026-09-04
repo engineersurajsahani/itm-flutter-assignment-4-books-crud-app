@@ -4,6 +4,13 @@ A full-stack book management application with a **Flutter mobile client**, a **N
 
 ---
 
+## Live Deployments & Links
+
+- **Web Application (Vercel)**: [https://books-crud-web.vercel.app](https://books-crud-web.vercel.app)
+- **Backend REST API (Vercel)**: [https://backend-mauve-five-11.vercel.app/api/books](https://backend-mauve-five-11.vercel.app/api/books)
+- **Health Check**: [https://backend-mauve-five-11.vercel.app/api/health](https://backend-mauve-five-11.vercel.app/api/health)
+- **GitHub Repository**: [https://github.com/AmitabhMorey/books-crud-application](https://github.com/AmitabhMorey/books-crud-application)
+
 ## Architecture Overview
 
 ```
