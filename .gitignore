@@ -1,0 +1,20 @@
+# Flutter/Dart generated files
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Flutter platform build output
+books_crud_app/build/
+books_crud_app/.dart_tool/
+
+# Node.js dependencies and local configuration
+backend/node_modules/
+backend/.env
+backend/serviceAccountKey.json
+
+# Local operating-system files
+.DS_Store
