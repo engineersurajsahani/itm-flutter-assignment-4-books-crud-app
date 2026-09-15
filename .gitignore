@@ -1,0 +1,16 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node dependencies & environment
+node_modules/
+.env
+*serviceAccountKey*.json
+*.log
+
+# Flutter build & tool cache
+.dart_tool/
+.flutter-plugins*
+build/
+*.iml
+.idea/
