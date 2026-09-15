@@ -1,0 +1,25 @@
+{
+  "name": "books-crud-backend",
+  "version": "1.0.0",
+  "description": "Node.js Express REST API with Firebase Firestore for Books CRUD Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "express",
+    "firebase",
+    "firestore",
+    "crud",
+    "flutter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.0"
+  }
+}
