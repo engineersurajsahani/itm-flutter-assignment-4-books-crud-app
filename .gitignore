@@ -1,0 +1,13 @@
+**/.DS_Store
+**/.dart_tool/
+**/.idea/
+**/*.iml
+**/build/
+**/node_modules/
+**/.env
+**/ServiceAccountKey.json
+**/android/local.properties
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/flutter_export_environment.sh
+**/macos/Flutter/ephemeral/
