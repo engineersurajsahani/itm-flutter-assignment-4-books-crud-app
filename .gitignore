@@ -1,0 +1,38 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+
+# Node / Backend
+node_modules/
+**/node_modules/
+logs/
+*.log
+npm-debug.log*
+.env
+*serviceAccountKey*.json
+*.pem
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/coverage/
+**/local.properties
+**/.gradle/
+**/Flutter/ephemeral/
+**/flutter/ephemeral/
