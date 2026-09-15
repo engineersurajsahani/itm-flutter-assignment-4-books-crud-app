@@ -1,0 +1,16 @@
+# Dependencies
+backend/node_modules/
+.pub-cache/
+.dart_tool/
+build/
+
+# Firebase credentials & secret environment variables (DO NOT COMMIT)
+backend/src/config/serviceAccountKey.json
+backend/.env
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.lock
